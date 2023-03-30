@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="titulo1">App Ingles</string>
+    <string name="titulo2">menu</string>
+    <string name="boto3">Animales</string>
+    <string name="boton2">Frutas</string>
+    <string name="boton1">Colores</string>
+    <string name="principal">Sitio</string>
+
+</resources>
